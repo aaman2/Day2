@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppIntro
 {
-    internal class Ternery
+    internal class logicalop
     {
-
     }
 }
-// biggest between 3 nos
