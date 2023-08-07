@@ -8,20 +8,20 @@ namespace ConsoleAppIntro
 {
     internal class NestedFor
     {
-        static void Main()
-        {
-            int i, j;
-            for(i=1;i<=10;i++)
-            {
-                for(j=1;j<=10;j++)
-                {
-                    int x = i * j;
-                    string str=x.ToString();
-                    Console.Write(str.PadLeft(5, ' '));
-                }
-                Console.WriteLine();
-            }
-        }
+    //    static void Main()
+    //    {
+    //        int i, j;
+    //        for(i=1;i<=10;i++)
+    //        {
+    //            for(j=1;j<=10;j++)
+    //            {
+    //                int x = i * j;
+    //                string str=x.ToString();
+    //                Console.Write(str.PadLeft(5, ' '));
+    //            }
+    //            Console.WriteLine();
+    //        }
+       // }
     }
 }
 /*

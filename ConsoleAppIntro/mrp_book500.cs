@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppIntro
 {
-    class @if
+    internal class mrp_book500
     {
     }
 }
