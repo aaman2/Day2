@@ -17,12 +17,12 @@
 //            //    Console.WriteLine(a[i]);
 //            //}
 
-//            int[] b=new int[5];
-//            int i,sum=0;
-//            for(i=0;i<5;i++)
+//            int[] b = new int[5];
+//            int i, sum = 0;
+//            for (i = 0; i < 5; i++)
 //            {
 //                Console.WriteLine("Enter element:");
-//                b[i]=Convert.ToInt32(Console.ReadLine());   
+//                b[i] = Convert.ToInt32(Console.ReadLine());
 //            }
 //            Console.WriteLine("\nYour array elements are:");
 //            for (i = 0; i < 5; i++)
@@ -32,7 +32,7 @@
 //            }
 //            Console.WriteLine($"The sum of array elements is {sum}");
 //            Console.WriteLine("Array in reverse order");
-//            for(i = 4; i >=0;i--)
+//            for (i = 4; i >= 0; i--)
 //            {
 //                Console.WriteLine(b[i]);
 //            }
